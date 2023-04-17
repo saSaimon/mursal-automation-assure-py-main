@@ -1,0 +1,17 @@
+{
+    "STANDARD_DEAL_CREATE_CASES": {
+        "SUCCESS_CASE": {
+            "DESCRIPTION": "Success Standard Deal Creation",
+            "DEAL_NAME": "Testing Deal on ",
+            "LAST_NAME": "User",
+            "EMAIL": "testing",
+            "PHONE": "12345678912",
+            "COUNTRY":"Pakistan",
+            "STATE":"Sindh",
+            "POSTAL_CODE":"560037",
+            "DATE_OF_BIRTH":"12011990",
+            "PASSWORD":"Testing@12345",
+            "EXPECTED_RESULT": "SUCCESS"
+        }
+    }
+}

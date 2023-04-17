@@ -1,0 +1,11 @@
+{
+    "driver_path": "C:\\WebDriver\\chromedriver.exe",
+    "base_url": "http://assure-staging.herokuapp.com/login",
+    "org_signup_url": "http://assure-staging.herokuapp.com/",
+    "deals_view_url": "http://assure-staging.herokuapp.com/deals-view",    
+    "outputFolder": "tests",
+    "outputFileType": ".csv",
+    "testReportEmail": "mursal@diyainteractive.com",
+    "vendor_login": "qa_vendor@mailinator.com",
+    "vendor_password": "vendor-123456"
+}

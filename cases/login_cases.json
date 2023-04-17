@@ -1,0 +1,40 @@
+{
+    "LOGIN_CASES": {
+        "CASE1": {
+            "DESCRIPTION": "Login with Empty Credentials",
+            "USERNAME": "",
+            "PASSWORD": "",
+            "EXPECTED_RESULT": "FAILURE"
+        },
+        "CASE2": {
+            "DESCRIPTION": "Login with Only Email",
+            "USERNAME": "org.acc04apr@yopmail.com",
+            "PASSWORD": "",
+            "EXPECTED_RESULT": "FAILURE"
+        },
+        "CASE3": {
+            "DESCRIPTION": "Login with Only Password",
+            "USERNAME": "",
+            "PASSWORD": "Apple@1234567",
+            "EXPECTED_RESULT": "FAILURE"
+        },
+        "CASE4": {
+            "DESCRIPTION": "Login with Wrong Credentials",
+            "USERNAME": "org.accfdsf04apr@yopmail.com",
+            "PASSWORD": "Apple@1sdfd234567",
+            "EXPECTED_RESULT": "FAILURE"
+        },
+        "CASE5": {
+            "DESCRIPTION": "Login with Correct Credentials",
+            "USERNAME": "org.acc04apr@yopmail.com",
+            "PASSWORD": "Apple@1234567",
+            "EXPECTED_RESULT": "SUCCESS"
+        },
+        "INVESTOR_SIGNIN": {
+            "DESCRIPTION": "Login with Correct Credentials",
+            "USERNAME": "123@mailinator.com",
+            "PASSWORD": "Testing@12345",
+            "EXPECTED_RESULT": "SUCCESS"
+        }
+    }
+}

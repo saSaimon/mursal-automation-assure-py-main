@@ -1,0 +1,8 @@
+{
+    "INVITE_INVESTORS": {
+        "SUCCESS_CASE": {
+            "DESRIPTION": "Invite Investors Success Case",
+            "EXPECTED_RESULT": "SUCCESS"
+        }
+    }
+}

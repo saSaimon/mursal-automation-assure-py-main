@@ -1,0 +1,37 @@
+{
+    "URLs":{
+        "DEALS_VIEW_URL":"http://assure-staging.herokuapp.com/deals-view",
+        "TERMS_AND_CONDITIONS": "http://assure-staging.herokuapp.com/tc",
+        "NEW_ACCOUNT_CREATED": "http://assure-staging.herokuapp.com/deals-view"
+    },
+    "KEYS": {
+        "IDs": {
+            "LOGIN_EMAIL": "l-1",
+            "LOGIN_PASSWORD": "l-2",
+            "SIGNUP_FIRSTNAME": "s-1",
+            "SIGNUP_LASTNAME": "s-2",
+            "SIGNUP_EMAIL": "s-3",
+            "SIGNUP_PHONE": "s-4",
+            "SIGNUP_COUNTRY": "s5",
+            "SIGNUP_STATE": "6",
+            "SIGNUP_POSTAL_CODE": "s-8",
+            "SIGNUP_DOB": "s-9",
+            "SIGNUP_PASSWORD": "s-10",
+            "SIGNUP_SUBMIT_BUTTON": "terms-of-use",
+            "AGREE_TERMS_BUTTON": "agree-terms",
+            "NEW_DEAL_BUTTON": "ar-new-deal-button",
+            "DEAL_PROFILE_DROPDOWN": "mui-component-select-profile",
+            "SELECT_LABS_DEAL": "ar-btn-select-as.Labs",
+            "ENTER_DEAL_DETAILS": "ar-btn-enter-deal-details",
+            "SELECT_STANDARD_DEAL":"ar-btn-select-standard"
+        },
+        "TAG_NAMES": {
+            "BUTTON": "button",
+            "TR": "tr",
+            "LIST_ITEM": "li"
+        },
+        "CLASS_NAMES": {
+            "ATTACH_IMAGE": "MuiDropzoneArea-textContainer-1208"
+        }
+    }
+}

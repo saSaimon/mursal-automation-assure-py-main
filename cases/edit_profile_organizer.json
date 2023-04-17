@@ -1,0 +1,18 @@
+{
+    "EDIT_PROFILE_ORGANIZER": {
+        "EDIT_DEAL_CASE": {
+            "DESRIPTION": "Individual Profile Creation Success Case",
+            "FIRST_NAME": "Test",
+            "LAST_NAME": "Test",
+            "EMAIL": "123@mailinator.com",
+            "ADDRESS1": "Test",
+            "ADDRESS2": "Test",
+            "CITY": "Test",
+            "POSTAL_CODE": "12345",
+            "DATE_OF_BIRTH": "01011990",
+            "US_CITIZENSHIP": "yes",
+            "SSN": "123456789",
+            "EXPECTED_RESULT": "SUCCESS"
+        }
+    }
+}

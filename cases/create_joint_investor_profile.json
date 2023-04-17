@@ -1,0 +1,35 @@
+{
+    "CREATE_INVESTOR_JOINT_PROFILES": {
+        "ENTITY_PROFILE_CASE": {
+            "DESRIPTION": "Individual Profile Creation Success Case",
+            "FIRST_NAME": "Test",
+            "LAST_NAME": "Test",
+            "EMAIL": "123@mailinator.com",
+            "ADDRESS1": "Test",
+            "ADDRESS2": "Test",
+            "CITY": "Test",
+            "POSTAL_CODE": "12345",
+            "DATE_OF_BIRTH": "01011990",
+            "US_CITIZENSHIP": "yes",
+            "SSN": "123456789",
+            "EXPECTED_RESULT": "SUCCESS"
+        }
+    },"CREATE_INVESTOR_OTHER_PROFILES" : {
+        "ENTITY_PROFILE_CASE": {
+            "DESRIPTION": "Entity Profile Creation Success Case",
+            "EXPECTED_RESULT": "SUCCESS"
+        },
+        "TRUST_PROFILE_CASE": {
+            "DESRIPTION": "Trust Profile Creation Success Case",
+            "EXPECTED_RESULT": "SUCCESS"
+        },
+        "JOINT_PROFILE_CASE": {
+            "DESRIPTION": "Joint Profile Creation Success Case",
+            "EXPECTED_RESULT": "SUCCESS"
+        },
+        "RETIREMENT_PROFILE_CASE": {
+            "DESRIPTION": "Retirement Profile Creation Success Case",
+            "EXPECTED_RESULT": "SUCCESS"
+        }
+    }
+}
